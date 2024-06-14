@@ -2,6 +2,9 @@
 
 under construction 👀
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristina-fb&theme=omni&include_all_commits=true&custom_title=My%20GitHub%20Stats!" alt="Cristina's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristina-fb&theme=omni" /></a> |
+| ------------- | ------------- |
+
 <!--
 **cristina-fb/cristina-fb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
