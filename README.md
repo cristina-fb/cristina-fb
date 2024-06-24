@@ -5,7 +5,7 @@
 - 🔭 I’m an **Electronic Communication Engineer** and a **Computer Software** student at 42Madrid
 - 🌱 I’m interested in learning about **IA** and **algorithms**
 - 💬 Ask me about **C**, **C++** and **Python**
-- ⚡ Fun fact: My brownies are the best
+- ⚡ Fun fact: My brownies are the best!
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristina-fb&theme=omni&include_all_commits=true&custom_title=My%20GitHub%20Stats!" alt="Cristina's github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristina-fb&theme=omni" /></a>
