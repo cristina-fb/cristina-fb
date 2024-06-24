@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&center=true&vcenter=true&duration=4000&pause=100&color=F770B9FF&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Cristina+Fern%C3%A1ndez" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=30&center=true&vcenter=true&duration=4000&pause=100&color=F770B9FF&random=false&width=435&lines=Hi+There!+%F0%9F%8C%B7;I'm+Cristina+Fern%C3%A1ndez" alt="Typing SVG" /></a>
 </h1>
 
 - 🔭 I’m an **Electronic Communication Engineer** and a **Computer Software** student at 42Madrid
